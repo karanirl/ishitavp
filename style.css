@@ -1,5 +1,5 @@
 .imgkaran{
-    border-radius: 20%;
+    border-radius: 5%;
     background-color: #EEEEEE;
 }
 .h1main{
@@ -8,7 +8,7 @@
 .gradient-background1 {
     background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
     background-size: 180% 180%;
-        animation: gradient-animation 8s ease infinite;
+        animation: gradient-animation 6s ease infinite;
       }
       
       @keyframes gradient-animation {
@@ -59,4 +59,13 @@
 .apnaheader{
   display: flex;
   justify-content: center;
+}
+.mani{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mani2{
+  height: 100px;
+  width: 200px;
 }
